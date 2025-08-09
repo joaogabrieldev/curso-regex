@@ -72,13 +72,20 @@
 Exemplo:
 
 ```bash
-    2010-12-20 - A data original
     ([0-9]{4})[-]([0-9]{2})[-]([0-9]{2})
      grupo 1       grupo 2      grupo 3
+```
+
+- Outro Exemplo:
+
+```bash
+    2010-12-20 -> A data original
+    ([0-9]{4})[-]([0-9]{2})[-]([0-9]{2}) -> Em forma de RegEx
+
 ```
 
 - E para acessar os grupos, usamos "$" e o numero do grupo. Assim:
 
 ```bash
-    $3/$2/$1 -> Assim a data fica: 20-12-2010
+    $3/$2/$1 -> Assim a data fica: 20/12/2010
 ```
