@@ -89,3 +89,7 @@ Exemplo:
 ```bash
     $3/$2/$1 -> Assim a data fica: 20/12/2010
 ```
+
+`\d` -> Digitos -> Qualquer número, excluindo todos as letras. Uso IGUAL ao "[0-9]", totalmente semelhante.
+
+`\D` -> Eu chamo de Non-Digits -> Exato oposto do "\d", resgata todas as letras, excluindo os números
