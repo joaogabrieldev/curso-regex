@@ -1,0 +1,21 @@
+A primeira data exemplo é 2010-12-20.
+
+A segunda 2020-01-01.
+
+<data>2010-12-20</data>
+
+{
+    "data": "2010-12-20"
+}
+
+Valores Padrão
+
+A primeira data exemplo é 2010-12-20.
+
+A segunda 2020-01-01.
+
+<data>2010-12-20</data>
+
+{
+    "data": "2010-12-20"
+}
